@@ -33,7 +33,7 @@ var trivia = {
         q4: ['George', 'Ira', 'Stuart', 'Mr. Miyagi'],
         q5: ['He gets his head stuck in a stair railing', 'He crashes his car into a telephone pole', 'He falls into a koi pond', 'He burns his foot on a George Foreman Grill'],
         q6: ['Bobblehead', 'Champagne', 'Glass display case for his bobblehead', 'Pepper Spray'],
-        q7: ['Andy', 'Keven', 'Creed', 'Dwight']
+        q7: ['Andy', 'Kevin', 'Creed', 'Dwight']
     },
     answers: {
         q1: 'Ryan Howard',
