@@ -137,10 +137,6 @@ var trivia = {
     },
     // method to evaluate the option clicked
     guessChecker: function () {
-
-        // timer ID for gameResult setTimeout
-        var resultId;
-
         // the answer to the current question being asked
         var currentAnswer = Object.values(trivia.answers)[trivia.currentSet];
 
